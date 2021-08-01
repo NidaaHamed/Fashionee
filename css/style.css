@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(240, 246, 255);
+}
+.item {
+    background-color: #fff;
+}
+.bg-success {
+    background-color: #2E86AB !important;
+}
+.btn-primary {
+    background-color: #2E86AB !important;
+    border: #2E86AB !important;
+}
+.bg-primary {
+    background-color: #565554 !important;
+}
+/* footer {
+    height: 300px;
+
+} */
